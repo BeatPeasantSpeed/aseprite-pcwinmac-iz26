@@ -1,4 +1,4 @@
-# 
+# 终极 Aseprite 模板 Mac OS版 | 高级 Aseprite 模板 PC Windows版。集成 减淡和加深 和 组件库，跨平台性能最大化。
 
 
 
